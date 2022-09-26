@@ -1,8 +1,15 @@
 # 2022-2023-study-plan
+
+
 Learning plan to guild me through as a junior Backend Web and Cloud Devops Engineer/SWE/SRE
+
+
 # Study plan from Sept 2022 to sep 2023
+
 ## Tracking Platform
+
 https://github.com/FrankOnyemaOrji
+
 
 ## Focus
 Python
